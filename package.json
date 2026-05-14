@@ -1,0 +1,9 @@
+{
+  "name": "wow-m-plus-analyzer-backend",
+  "version": "1.0.0",
+  "description": "Backend for WoW M+ Analyzer",
+  "scripts": {
+    "dev": "vercel dev"
+  },
+  "dependencies": {}
+}
